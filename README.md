@@ -35,7 +35,7 @@ git clone https://github.com/doglascode/contacts.git
 ## Executando a aplicação
 - Execute `npm run dev` ou `yarn dev` em cada pasta para iniciar o projeto
 
-- O front-end está disponível na porta **3000**, já o back-end na porta **3001**
+- O front-end está disponível na porta **5173**, já o back-end na porta **3000**
 
 - O MongoDB precisa estar na porta padrão (**27017**) para o back-end funcionar corretamente
 
